@@ -81,7 +81,6 @@ We used `matplotlib` and `seaborn` for creating:
 - 📍 Confusion Matrix  
   ![Confusion Matrix](screenshots/confusion_matrix.png)
 
-  ![ChatGPT Image Apr 22, 2025, 03_31_12 PM](https://github.com/user-attachments/assets/083f4f19-14d8-465b-8916-26297fae9211)
 
   ![Screenshot 2025-04-22 145042](https://github.com/user-attachments/assets/38aaee44-7ea8-4886-b9cb-aaa9b29afee4)
 
