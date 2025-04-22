@@ -86,6 +86,19 @@ We used `matplotlib` and `seaborn` for creating:
 
   ![ChatGPT Image Apr 22, 2025, 03_31_12 PM](https://github.com/user-attachments/assets/083f4f19-14d8-465b-8916-26297fae9211)
 
+  ![Screenshot 2025-04-22 145042](https://github.com/user-attachments/assets/38aaee44-7ea8-4886-b9cb-aaa9b29afee4)
+
+  ![Screenshot 2025-04-22 145115](https://github.com/user-attachments/assets/1f9d1113-0cbc-49ec-8bf0-f38af5b74c54)
+
+  ![Screenshot 2025-04-22 145126](https://github.com/user-attachments/assets/185a23ee-125f-4e05-92d4-ccd0317e508a)
+
+  ![Screenshot 2025-04-22 145135](https://github.com/user-attachments/assets/69aabdd3-ea4a-4732-b421-513cc08aab90)
+
+  
+
+
+
+
 
 
 🛠️ How to Use
