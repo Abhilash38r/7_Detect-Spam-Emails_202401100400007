@@ -1,6 +1,3 @@
-![Uploading ChatGPT Image Apr 22, 2025, 03_31_12 PM.png…]()
-
-
 📧 Spam Email Detection using Structured Metadata
 
 This project focuses on detecting spam emails using structured metadata instead of analyzing email content. It’s lightweight, efficient, and suitable for environments with privacy constraints or limited computational resources.
